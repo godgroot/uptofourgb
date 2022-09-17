@@ -10,8 +10,8 @@
       "pyrogram",
       "bot"
     ],
-    "website": "https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot",
-    "repository": "https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot",
+    "website": "https://github.com/godgroot/uptofourgb",
+    "repository": "https://github.com/godgroot/uptofourgb",
     "env": {
         "API_HASH": {
             "description": "Get this value from :- https://youtu.be/5eEsvLAKVc0",
